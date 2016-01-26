@@ -1,0 +1,6 @@
+Technoloy stack
+1)PHP
+2)MySQL
+3)CodeIgniter
+4)Bootstrap
+5)Jquery
